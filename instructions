@@ -1,0 +1,12 @@
+1. Import this project in eclipse.
+2. change the database details in props folder under WebContent folder.
+ i.e change username, password and connection url.
+i have used MYSQL database.
+3. There is a sql script which need to be executed before running the application.
+4. Deploy this web application on apachetomcat7 server.
+6. Please use JAVA 7.
+8. After deploying the application on server you can access it using below url
+  http://localhost:portnumber/PrizyPricer
+9. This application is built on spring framework, all the rquired jars are present in the application.
+
+Note: portnumber is the port on which tomcat server is started.
